@@ -1,0 +1,22 @@
+/* Home.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+.home {
+    background-color: #C8B8DB;
+    min-height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    text-align: center;
+    overflow-x: hidden;
+    font-family: 'Bungee', sans-serif;
+}
+
+.title {
+    color: #70587C;
+}
+
+.buttons {
+    background-color: #70587C;
+    margin: 0 0.5rem;
+}
